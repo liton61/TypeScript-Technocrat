@@ -1,0 +1,11 @@
+"use strict";
+let userName = "John Doe";
+console.log(userName);
+let roll = 101;
+console.log(roll);
+let isAdmin = true;
+console.log(isAdmin);
+let x = undefined;
+console.log(x);
+let y = null;
+console.log(y);
